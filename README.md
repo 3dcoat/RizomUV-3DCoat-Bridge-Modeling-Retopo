@@ -30,3 +30,6 @@ The bridge file (toRizomUV.obj and toRizomRM.obj) will be created in the folder 
 # Texture reprojection
 The Paint/UV addon does not reproject textures after to get the mesh back with the new UV. 
 If you see some transparencies in the mesh shader on Paint Room, select the Layer0 > Pick (C) the grey color and fill all the mesh/layer with that grey color.
+---------------------------------------
+If you find my plugin useful and want to support me, you can donate with this link: 
+https://www.paypal.com/donate/?hosted_button_id=K9MPP6YBWZYSG
