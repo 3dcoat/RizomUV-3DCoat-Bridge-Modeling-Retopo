@@ -1,3 +1,6 @@
+<img width="1408" height="768" alt="RizomUV to 3DCoat" src="https://github.com/user-attachments/assets/5270e4f0-d70f-421e-8a50-24484a70e041" />
+
+
 # Important note for RizomUV:
 
 Make sure the path in the Python script points to the .exe file you actually have installed (RizomUV or Unfold3D). This version is ready for RizomUV 2025.
