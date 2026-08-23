@@ -5,9 +5,9 @@ It allows you to leverage RizomUV’s ultra-fast, advanced automated unwrapping 
 
 # What the Bridge Does 
 
-. One-Click Transfer: Exports your active mesh from 3DCoat straight into a running instance of RizomUV with a single command.
-. Round-Trip Editing: Automatically sends the newly unfolded UV maps and island layouts back into 3DCoat without manual importing or exporting of files.
-. Pipeline Efficiency: Combines 3DCoat’s powerful voxel sculpting and painting environment with RizomUV’s industry-leading UV unwrapping and packing precision.
+- One-Click Transfer: Exports your active mesh from 3DCoat straight into a running instance of RizomUV with a single command. 
+- Round-Trip Editing: Automatically sends the newly unfolded UV maps and island layouts back into 3DCoat without manual importing or exporting of files. 
+- Pipeline Efficiency: Combines 3DCoat’s powerful voxel sculpting and painting environment with RizomUV’s industry-leading UV unwrapping and packing precision. 
 
 # Important note for RizomUV:
 
