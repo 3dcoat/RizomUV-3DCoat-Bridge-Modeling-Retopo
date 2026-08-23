@@ -1,5 +1,14 @@
 <img width="400" height="400" alt="RizomUV to 3DCoat thumbnail" src="https://github.com/user-attachments/assets/19930414-0a64-40b8-9db7-8f6f33876ad7" />
 
+The RizomUV Bridge for 3DCoat is a live-link plugin that lets you send 3D meshes seamlessly back and forth between 3DCoat and RizomUV. 
+It allows you to leverage RizomUV’s ultra-fast, advanced automated unwrapping and packing algorithms directly alongside 3DCoat's sculpting and texturing workflow.
+
+# What the Bridge Does 
+
+. One-Click Transfer: Exports your active mesh from 3DCoat straight into a running instance of RizomUV with a single command.
+. Round-Trip Editing: Automatically sends the newly unfolded UV maps and island layouts back into 3DCoat without manual importing or exporting of files.
+. Pipeline Efficiency: Combines 3DCoat’s powerful voxel sculpting and painting environment with RizomUV’s industry-leading UV unwrapping and packing precision.
+
 # Important note for RizomUV:
 
 Make sure the path in the Python script points to the .exe file you actually have installed (RizomUV or Unfold3D). This version is ready for RizomUV 2025.
@@ -7,10 +16,10 @@ In the folder /Addons/Rizom/Rizom/ there is 2 files: RizomSendRM.py and RizomSen
 This addon installation is currently set to work witch RizomUV 2025.
 
 If you need to change the version to another one or olders, check the rizom_exe executable line on line 14, select your version and comment the other (using "#"):: 
-your rizomuv installation folder:
+. your rizomuv installation folder:
 rizom_exe = "C:/Program Files/Rizom Lab/RizomUV 2025.0/rizomuv.exe" 
 
-your unfold3D installation folder: 
+. your unfold3D installation folder: 
 rizom_exe = r"C:/Program Files/Rizom Lab/Unfold3D VS 2018.0/unfold3d.exe"
 
 
