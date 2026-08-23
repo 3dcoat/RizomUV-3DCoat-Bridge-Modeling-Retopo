@@ -1,5 +1,4 @@
-<img width="1408" height="768" alt="RizomUV to 3DCoat" src="https://github.com/user-attachments/assets/5270e4f0-d70f-421e-8a50-24484a70e041" />
-
+<img width="400" height="400" alt="RizomUV to 3DCoat thumbnail" src="https://github.com/user-attachments/assets/19930414-0a64-40b8-9db7-8f6f33876ad7" />
 
 # Important note for RizomUV:
 
