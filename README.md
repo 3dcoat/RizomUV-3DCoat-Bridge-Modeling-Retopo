@@ -32,14 +32,15 @@ After the install, you can find it in the Addon Menu.
 
 
 # There are 4 scripts. 
-Send and get for Retopo/Modeling Room and for Paint/UV Room 
-RizomSendRM.py and RizomSendUV.py: Exports the mesh, saves it to a fixed path, and automatically launches RizomUV. On Retopo/Modeling Room make sure the mesh you wish to send is selected.
-RizomGetRM.py and RizomGetUV.py: Deletes the old mesh to avoid creating garbage, creates a new one, imports the processed model, and restores the UVs.
+Send and get for Retopo/Modeling Room and for Paint/UV Room
+- RizomSendRM.py and RizomSendUV.py: Exports the mesh, saves it to a fixed path, and automatically launches RizomUV. On Retopo/Modeling Room make sure the mesh you wish to send is selected. 
+- RizomGetRM.py and RizomGetUV.py: Deletes the old mesh to avoid creating garbage, creates a new one, imports the processed model, and restores the UVs. 
 
-The bridge file (toRizomUV.obj and toRizomRM.obj) will be created in the folder \UserPrefs\Addons\Rizom\Rizom
+The bridge file (toRizomUV.obj and toRizomRM.obj) will be created in the folder \UserPrefs\Addons\Rizom\Rizom 
 
 # Texture reprojection 
 The Paint/UV addon does not reproject textures after to get the mesh back with the new UV. 
+
 If you see some transparencies in the mesh shader on Paint Room, select the Layer0 > Pick (C) the grey color and fill all the mesh/layer with that grey color.
 
 ---------------------------------------
